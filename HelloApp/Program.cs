@@ -3,6 +3,8 @@ class Greetings
     public static void Main()
     {
         WriteWord();
+        GreetWhite();
+        GreetBlack();
     }
     
     public static void WriteWord()
